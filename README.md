@@ -1,1 +1,1 @@
-# SimpleApp
+# Calculator
